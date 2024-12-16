@@ -54,7 +54,7 @@ public class Stopwatch
     }
 
     // Tick method to increment time
-    private void Tick(object state)
+    private void Tick(object? state)
     {
         if (isRunning)
         {
