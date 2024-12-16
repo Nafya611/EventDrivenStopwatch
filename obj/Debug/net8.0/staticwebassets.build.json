@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sMOSQbCC2lOPNq5btMCElUDbEPXqjBR+RnRxJwCOaKc=",
+  "Source": "stopwatch",
+  "BasePath": "_content/stopwatch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
